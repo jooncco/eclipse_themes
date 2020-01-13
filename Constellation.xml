@@ -21,9 +21,9 @@
     <keyword color="#888888" />
     <annotation color="#43D166" />
     <staticMethod color="#FFFFFF" />
-    <localVariable color="#AAAAAA" bold="true" />
+    <localVariable color="#CCCCCC" bold="true" />
     <localVariableDeclaration color="#DDDDDD" bold="true" />
-    <field color="#AAAAAA" />
+    <field color="#CCCCCC" />
     <staticField color="#FFFFFF" />
     <staticFinalField color="#4381D1" bold="true" />
     <deprecatedMember color="#FFFFFF" />
