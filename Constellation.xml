@@ -11,7 +11,7 @@
     <javadocTag color="#43D166" bold="true" italic="false" />
     <javadocKeyword color="#43D166" bold="false" />
     <class color="#A35BE3" bold="false" />
-    <interface color="#43D166" />
+    <interface color="#A35BE3" />
     <method color="#DDDDDD" bold="false" />
     <methodDeclaration color="#DDDDDD" bold="false" />
     <bracket color="#FFFFFF" />
