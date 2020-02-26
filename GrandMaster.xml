@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="19922" name="GrandMaster" modified="2020-02-26 01:46:35" author="jooncco">
+    <occurrenceIndication color="#616161" />
+    <findScope color="#191919" />
+    <deletionIndication color="#EEEEEE" />
+    <singleLineComment color="#AAAAAA" />
+    <multiLineComment color="#EEEEEE" bold="false" underline="false" strikethrough="false" />
+    <commentTaskTag color="#AAAAAA" />
+    <javadoc color="#AAAAAA" />
+    <javadocLink color="#AAAAAA" />
+    <javadocTag color="#593382" bold="true" italic="false" />
+    <javadocKeyword color="#593382" bold="false" />
+    <class color="#DB373C" bold="false" />
+    <interface color="#DB370C" />
+    <method color="#BBBBBB" bold="false" />
+    <methodDeclaration color="#BBBBBB" bold="false" />
+    <bracket color="#BBBBBB" />
+    <number color="#4381D1" />
+    <string color="#3967A3" />
+    <operator color="#FFFFFF" />
+    <keyword color="#888888" />
+    <annotation color="#7E4BB3" />
+    <staticMethod color="#BBDDDD" />
+    <localVariable color="#CCCCCC" bold="true" />
+    <localVariableDeclaration color="#BBBBBB" bold="true" />
+    <field color="#CCCCCC" />
+    <staticField color="#FFFFFF" />
+    <staticFinalField color="#4381D1" bold="true" />
+    <deprecatedMember color="#FFFFFF" />
+    <enum color="#408000" />
+    <inheritedMethod color="#BBDDDD" />
+    <abstractMethod color="#BBDDDD" />
+    <parameterVariable color="#BBBBBB" bold="true" />
+    <typeArgument color="#DB373C" />
+    <typeParameter color="#DB373C" />
+    <background color="#000000" />
+    <currentLine color="#222222" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#73721d" />
+    <selectionForeground color="#CCCCCC" bold="true" />
+</colorTheme>
