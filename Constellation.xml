@@ -10,8 +10,8 @@
     <javadocLink color="#AAAAAA" />
     <javadocTag color="#43D166" bold="true" italic="false" />
     <javadocKeyword color="#43D166" bold="false" />
-    <class color="#A35BE3" bold="false" />
-    <interface color="#A35BE3" />
+    <class color="#7E4BB3" bold="false" />
+    <interface color="#7E4BB3" />
     <method color="#DDDDDD" bold="false" />
     <methodDeclaration color="#DDDDDD" bold="false" />
     <bracket color="#FFFFFF" />
@@ -31,8 +31,8 @@
     <inheritedMethod color="#DDDDDD" />
     <abstractMethod color="#DDDDDD" />
     <parameterVariable color="#DDDDDD" bold="true" />
-    <typeArgument color="#A35BE3" />
-    <typeParameter color="#A35BE3" />
+    <typeArgument color="#7E4BB3" />
+    <typeParameter color="#7E4BB3" />
     <background color="#000000" />
     <currentLine color="#222220" />
     <foreground color="#FFFFFF" />
